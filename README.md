@@ -1,0 +1,1 @@
+# Project CardDeliveryPatterns [![Build status](https://ci.appveyor.com/api/projects/status/nr31v0geq3sgnfr0?svg=true)](https://ci.appveyor.com/project/cubemarin/carddeliverypatterns)
